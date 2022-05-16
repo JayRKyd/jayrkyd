@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Jay Knowles
+<img src="https://github.com/JayRKyd/jayrkyd/blob/main/Twitch%20Profile%20Banner%201200x480%20px.png" width="100%">
+
 #### Software Engineer @ 100Devs
 Full-Stack Software Engineer with a deep interest in blockchain technology. Strong desire for building full stack web applications to solve the users needs. Skilled in solving problems with HTML, CSS, JavaScript, React, Node MongoDB and Express. Currently looking for any interesting open source projects!
 
