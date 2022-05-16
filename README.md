@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-<h2 Software Engineer @ 100Devs</h2>
+<h2> Software Engineer @ 100Devs</h2>
 <p>Full-Stack Software Engineer with a deep interest in blockchain technology. Strong desire for building full stack web applications to solve the users needs. Skilled in solving problems with HTML, CSS, JavaScript, React, Node MongoDB and Express. Currently looking for any interesting open source projects!</p>
 
 
