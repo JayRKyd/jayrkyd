@@ -9,9 +9,9 @@
 <div align="center">
 
 <p>Full-Stack Software Engineer with a deep interest in blockchain technology. Strong desire for building full stack web applications to solve the users needs. Skilled in solving problems with HTML, CSS, JavaScript, React, Node MongoDB and Express. Currently looking for any interesting open source projects!</p>
-
-
-  
+<div align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JayRKyd&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  </div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jayrkyd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jordyknowles.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jordy-knowles-01706a12b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/jayrcodes)  
 </div>
@@ -27,7 +27,10 @@
           <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
           <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
           <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>             <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-          <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>           </p>                                                                              
+          <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=bbb111&style=plastic&logo=node.js"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+ </p>                                                                              
 
 ---
 ### 📕 Latest Blog Posts
