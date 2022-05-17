@@ -18,5 +18,9 @@
 <br/>
 
 ### <div align="center">Go to <a href="https://jayr-codes.netlify.app/">my portfolio site</a> for more information!</div>
+
+### 📕 Latest Blog Posts
+- [How I got into software engineering](https://jordyknowles.hashnode.dev/every-story-has-a-beginning)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayrkyd)](https://github.com/jayrkyd/github-readme-stats)
 
