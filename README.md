@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/JayRKyd/jayrkyd/blob/main/Twitch%20Profile%20Banner%201200x480%20px.png" width="100%" />
+<img src="https://github.com/JayRKyd/jayrkyd/blob/main/cover.png" width="100%" />
   </div>
 <br/>
 
