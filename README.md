@@ -21,6 +21,9 @@
 
 ### 📕 Latest Blog Posts
 - [How I got into software engineering](https://jordyknowles.hashnode.dev/every-story-has-a-beginning)
+- [DOM Manipulation in JavaScript](https://jordyknowles.hashnode.dev/dom-manipulation-in-javascript)
+
+➡️ [more blog posts...](https://jordyknowles.hashnode.dev/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayrkyd)](https://github.com/jayrkyd/github-readme-stats)
 
