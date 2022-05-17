@@ -19,6 +19,8 @@
 
 ### <div align="center">Go to <a href="https://jayr-codes.netlify.app/">my portfolio site</a> for more information!</div>
 
+
+<br>
 ### 📕 Latest Blog Posts
 - [How I got into software engineering](https://jordyknowles.hashnode.dev/every-story-has-a-beginning)
 - [DOM Manipulation in JavaScript](https://jordyknowles.hashnode.dev/dom-manipulation-in-javascript)
