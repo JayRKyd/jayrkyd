@@ -9,7 +9,7 @@
 <div align="center">
 
 <p>Full-Stack Software Engineer with a deep interest in blockchain technology. Strong desire for building full stack web applications to solve the users needs. Skilled in solving problems with HTML, CSS, JavaScript, React, Node MongoDB and Express. Currently looking for any interesting open source projects!</p>
-<div align="center">
+<div align="center" margin-top="10px">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=JayRKyd&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D">
   </div>
 
