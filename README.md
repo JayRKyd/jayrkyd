@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-### <div align="center">Go to <a href="https://jayr-codes.netlify.app/">my portfolio site</a> for more information!</div>
+### <div align="center">Go to <a href="https://jknowles.dev/">my portfolio site</a> for more information!</div>
 
 ---
 <h1 align="center">Technologies</h1>
