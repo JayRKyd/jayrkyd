@@ -18,6 +18,77 @@
 </div>
 <br/>
 
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Oculus Frames</h3>
+        <br />
+        <img src="oculusframes.gif" width="100%"  alt="oculus website"/>
+        <br />
+      <p align="center">
+        <a target="_blank" href="https://github.com/JayRKyd/oculus">
+          <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
+        </a>
+        <a target="_blank" href="https://oculus-frames.vercel.app/Homepage">
+          <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+        </a>
+      </p>
+        <p><strong>React, NextJS, Sanity</strong> - E-commerce application with payment functionality. Allows stripe integration so that you can make REAL payments!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Lucayan Admin</h3>
+        <br />
+        <img src="adminpanel1.gif" width="100%"  alt="oculus website"/>
+        <br />
+      <p align="center">
+        <a target="_blank" href="https://github.com/JayRKyd/oculus">
+          <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
+        </a>
+        <a target="_blank" href="https://oculus-frames.vercel.app/Homepage">
+          <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+        </a>
+      </p>
+        <p><strong>React, NextJS, Sanity</strong> - E-commerce application with payment functionality. Allows stripe integration so that you can make REAL payments!</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BAHA-GO</h3>
+        <br />
+        <a target="_blank" href="https://baha-go.cyclic.app/">
+            <img src="baha.gif"/>
+        </a>
+        <br />
+        <p align="center">
+          <a target="_blank" href="https://github.com/JayRKyd/Baha-Go">
+            <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
+          </a>
+          <a target="_blank" href="https://baha-go.cyclic.app/">
+            <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+          </a>
+        </p>
+        <p><strong>JavaScript, Node, Express, EJS</strong> - Restaurant review app that allows you to find local restaurants in your community and share with your followers </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Bloggist</h3>
+        <br />
+      <a target="_blank" href="#">
+          <img src="bloggist.gif" width="100%"  alt="bloggist website"/>
+      </a>
+        <br />
+      <p align="center">
+        <a target="_blank" href="#">
+          <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
+        </a>
+        <a target="_blank" href="#">
+          <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+        </a>
+      </p>
+        <p><strong>JavaScript, MongoDB, Node, Express, EJS</strong> - Find bloggers who all have the love and passion for creating blog posts.</p>
+    </td>
+  </tr>
+</table>
+
 ### <div align="center">Go to <a href="https://jknowles.dev/">my portfolio site</a> for more information!</div>
 
 ---
