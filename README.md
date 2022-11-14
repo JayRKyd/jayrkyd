@@ -41,14 +41,14 @@
         <img src="adminpanel1.gif" width="100%"  alt="oculus website"/>
         <br />
       <p align="center">
-        <a target="_blank" href="https://github.com/JayRKyd/oculus">
+        <a target="_blank" href="#">
           <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
         </a>
-        <a target="_blank" href="https://oculus-frames.vercel.app/Homepage">
+        <a target="_blank" href="#">
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>React, NextJS, Sanity</strong> - E-commerce application with payment functionality. Allows stripe integration so that you can make REAL payments!</p>
+        <p><strong>React, JavaScript</strong> - Admin panel that allows you to see new users and monthly trends buyers habits.</p>
     </td>
   </tr>
   <tr>
