@@ -63,7 +63,7 @@
           <a target="_blank" href="https://github.com/JayRKyd/Baha-Go">
             <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
           </a>
-          <a target="_blank" href="https://baha-go.cyclic.app/">
+          <a target="_blank" href="https://baha-go-production.up.railway.app">
             <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
           </a>
         </p>
