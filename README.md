@@ -55,7 +55,7 @@
     <td width="50%" valign="top">
       <h3 align="center">BAHA-GO</h3>
         <br />
-        <a target="_blank" href="https://baha-go.cyclic.app/">
+        <a target="_blank" href="https://baha-go-production.up.railway.app">
             <img src="baha.gif"/>
         </a>
         <br />
